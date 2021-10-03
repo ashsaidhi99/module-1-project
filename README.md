@@ -10,5 +10,5 @@ _I have also went into the CSS and changed some of the names._
 
 _As for the title, I adjusted it to display the proper name for this website._
 
-[Github](https://www.github.com "Github home")
+[Github](https://ashsaidhi99.github.io/module-1-project/ "here is the website")
 
