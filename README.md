@@ -1,13 +1,14 @@
 # module-1-project
 
-Hello! 
+_Hello!_ 
 
-This project is about my very first refactoring code.
+_This project is about my very first refactoring code._
 
-Here I have went in and got rid of those pesky div's and instead replaced them with the proper HTML elements.
+_Here I have went in and got rid of those pesky div's and instead replaced them with the proper HTML elements._
 
-I have also went into the CSS and changed some of the names.
+_I have also went into the CSS and changed some of the names._
 
-As for the title, I adjusted it to display the proper name for this website.
+_As for the title, I adjusted it to display the proper name for this website._
 
+[Github](https://www.github.com "Github home")
 
